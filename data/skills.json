@@ -1,0 +1,10 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Ruby","Rails","git","HTML5","CSS","Sass","jquery","javascript"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Github","Drupal","PostgresQL","MySQL","Wordpress"]
+  }
+]

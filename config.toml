@@ -1,0 +1,38 @@
+baseURL = "http://olgaboiar.com/"
+languageCode = "en-us"
+title = "Olga Boiaryntseva"
+theme = "resume"
+
+[params]
+    firstName = "Olga"
+    lastName = "Boiaryntseva"
+    address = "New York, NY"
+    profileImage = "img/me.png"
+    email = "olgaboiar@gmail.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = false
+    showExperience = false
+    showEducation = false
+
+		showQr = false
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/olga-boiar/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/olgaboiar"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]
