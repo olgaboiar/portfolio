@@ -7,6 +7,9 @@
           "Ruby on Rails",
           "PostgresQL",
           "Heroku",
+          "Devise",
+          "OmniAuth",
+          "Javascript",
           "REST APIs"
         ],
     "fact":" developed in collaboratin with Ian Vidaurre and Nadia Camron"
