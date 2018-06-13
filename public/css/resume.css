@@ -153,3 +153,7 @@ img {
 .nav-link {
   color: #868e96 !important;
 }
+
+.nav-link:hover{
+  color: #343a40 !important;
+}

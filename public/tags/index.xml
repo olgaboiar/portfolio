@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Olga Boiaryntseva</title>
-    <link>http://olgaboiar.com/tags/</link>
+    <link>https://olgaboiar.com/tags/</link>
     <description>Recent content in Tags on Olga Boiaryntseva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="http://olgaboiar.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olgaboiar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Devise</title>
-      <link>http://olgaboiar.com/tags/devise/</link>
+      <link>https://olgaboiar.com/tags/devise/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgaboiar.com/tags/devise/</guid>
+      <guid>https://olgaboiar.com/tags/devise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heroku</title>
-      <link>http://olgaboiar.com/tags/heroku/</link>
+      <link>https://olgaboiar.com/tags/heroku/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://olgaboiar.com/tags/heroku/</guid>
+      <guid>https://olgaboiar.com/tags/heroku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>http://olgaboiar.com/tags/javascript/</link>
+      <link>https://olgaboiar.com/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgaboiar.com/tags/javascript/</guid>
+      <guid>https://olgaboiar.com/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Materialize</title>
-      <link>http://olgaboiar.com/tags/materialize/</link>
+      <link>https://olgaboiar.com/tags/materialize/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgaboiar.com/tags/materialize/</guid>
+      <guid>https://olgaboiar.com/tags/materialize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omniauth</title>
-      <link>http://olgaboiar.com/tags/omniauth/</link>
+      <link>https://olgaboiar.com/tags/omniauth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgaboiar.com/tags/omniauth/</guid>
+      <guid>https://olgaboiar.com/tags/omniauth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postgresql</title>
-      <link>http://olgaboiar.com/tags/postgresql/</link>
+      <link>https://olgaboiar.com/tags/postgresql/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://olgaboiar.com/tags/postgresql/</guid>
+      <guid>https://olgaboiar.com/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rest Apis</title>
-      <link>http://olgaboiar.com/tags/rest-apis/</link>
+      <link>https://olgaboiar.com/tags/rest-apis/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://olgaboiar.com/tags/rest-apis/</guid>
+      <guid>https://olgaboiar.com/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruby on Rails</title>
-      <link>http://olgaboiar.com/tags/ruby-on-rails/</link>
+      <link>https://olgaboiar.com/tags/ruby-on-rails/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://olgaboiar.com/tags/ruby-on-rails/</guid>
+      <guid>https://olgaboiar.com/tags/ruby-on-rails/</guid>
       <description></description>
     </item>
     

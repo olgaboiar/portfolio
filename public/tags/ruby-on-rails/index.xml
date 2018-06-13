@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruby on Rails on Olga Boiaryntseva</title>
-    <link>http://olgaboiar.com/tags/ruby-on-rails/</link>
+    <link>https://olgaboiar.com/tags/ruby-on-rails/</link>
     <description>Recent content in Ruby on Rails on Olga Boiaryntseva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="http://olgaboiar.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olgaboiar.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Check It Before You Rent It</title>
-      <link>http://olgaboiar.com/projects/creations/checkrent/</link>
+      <link>https://olgaboiar.com/projects/creations/checkrent/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://olgaboiar.com/projects/creations/checkrent/</guid>
-      <description>Check it Before You Rent It &amp;ldquo;&amp;hellip; test.&amp;rdquo; description.</description>
+      <guid>https://olgaboiar.com/projects/creations/checkrent/</guid>
+      <description>Check it Before You Rent It  development in progress.</description>
     </item>
     
     <item>
       <title>School Admin Panel</title>
-      <link>http://olgaboiar.com/projects/creations/adminpanel/</link>
+      <link>https://olgaboiar.com/projects/creations/adminpanel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgaboiar.com/projects/creations/adminpanel/</guid>
-      <description>Fictitious School Admin PanelThe fifth individual project during Web-Development Fellowship at New York Code and Design Academy.It is a fullstack simple admin panel for a fictitious school whereby the administrator can create users and complete common administrative tasks.</description>
+      <guid>https://olgaboiar.com/projects/creations/adminpanel/</guid>
+      <description>Fictitious School Admin Panel. The fifth individual project during Web-Development Fellowship at New York Code and Design Academy. It is a fullstack simple admin panel for a fictitious school whereby the administrator can create users and complete common administrative tasks.</description>
     </item>
     
     <item>
       <title>Travellancer</title>
-      <link>http://olgaboiar.com/projects/creations/travellancer/</link>
+      <link>https://olgaboiar.com/projects/creations/travellancer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://olgaboiar.com/projects/creations/travellancer/</guid>
+      <guid>https://olgaboiar.com/projects/creations/travellancer/</guid>
       <description>Travellancer is an app that allows freelance photographers the ability to find short term work while traveling to new destinations or at their local city of residence. They can do this by posting their dates of availability; which are then both viewable and search-able by potential clients.</description>
     </item>
     

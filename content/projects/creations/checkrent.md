@@ -1,13 +1,13 @@
 {
   "title": "Check It Before You Rent It",
   "date": "2018-02-11T12:41:05-05:00",
-  "image": "/img/circleci-workflow.png",
+  "image": "/img/soon.png",
   "link": "https://github.com/olgaboiar",
-  "image": "/img/aafb-agent-ids-match-bamboo.png",
-  "description": "Check it Before You Rent It \"<em>test.</em>\" description.",
+  "image": "/img/soon.png",
+  "description": "Check it Before You Rent It <em>development in progress.</em>",
   "tags": ["Ruby on Rails","PostgresQL", "Heroku","REST APIs"],
-  "fact": "",
-  "featured":true
+  "fact": ""
+  
 }
 
-Check it Before You Rent It  "...<em> test.</em>" description.
+Check it Before You Rent It <em> development in progress.</em>
